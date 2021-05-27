@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-patil07&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-patil07" /> </p>
 
-- 🌱 I’m currently learning **Everything 🤣**
+- I’m currently learning **Everything 🤣**
 
 - 🥅 2021 Goals: **Learn New Technologies**
 
